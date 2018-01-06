@@ -1,4 +1,8 @@
 # Wumpus
 Adaption of the Hunt the Wumpus video game
 
-![Image View](deliverables/WumpusSS.png)
+# **Image View example**
+![](deliverables/WumpusSS.png)
+
+# **Endgame View**
+![](devliverables/WumpusLose.png)
