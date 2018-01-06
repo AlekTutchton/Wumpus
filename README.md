@@ -1,8 +1,9 @@
 # Wumpus
 Adaption of the Hunt the Wumpus video game
+# Project Dependencies
+  Java 18
+  Javafx
 
-# **Image View example**
+# **Screenshots**
 ![](deliverables/WumpusSS.png)
-
-# **Endgame View**
 ![](deliverables/WumpusLose.png)
