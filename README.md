@@ -5,4 +5,4 @@ Adaption of the Hunt the Wumpus video game
 ![](deliverables/WumpusSS.png)
 
 # **Endgame View**
-![](devliverables/WumpusLose.png)
+![](deliverables/WumpusLose.png)
